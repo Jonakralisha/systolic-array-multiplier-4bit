@@ -4,4 +4,5 @@ This design demonstrates pipelining of partial product computation  across multi
 
 # Simulation results
 
-<img width="1920" height="995" alt="simulation_1" src="https://github.com/user-attachments/assets/85402a6d-092a-4eb8-9cbe-753584244c0d" />
+<img width="815" height="646" alt="Screenshot 2025-09-14 at 1 01 26 AM" src="https://github.com/user-attachments/assets/93046905-c012-40da-9c46-46d65e894417" />
+
