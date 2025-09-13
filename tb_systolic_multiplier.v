@@ -19,7 +19,7 @@ module tb_mul4x4_systolic;
         b = 4'd0;
         #12;
         rst_n = 1;
-        #10 a=4'd4; b=4'd3;   // 7*3 = 21
+        #10 a=4'd4; b=4'd3;   // 4*3 = 12
         #200;
         $stop;
     end
@@ -28,3 +28,4 @@ module tb_mul4x4_systolic;
         $monitor("%0dns\t %d %d | %d", $time, a, b, p);
     end
 endmodule
+
